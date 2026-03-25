@@ -22,8 +22,6 @@ The two branches interact through a **Cross-Stream Exchange Module (CSEM)**, whi
   <em>Overview of the proposed TSONet framework.</em>
 </p>
 
-> Replace `figures/framework.png` with the actual path to your framework figure in this repository.
-
 ---
 
 ## Main Features
