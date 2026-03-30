@@ -89,10 +89,5 @@ data_root/
 If you find this repository useful, please cite the corresponding paper.
 
 ```bibtex
-@misc{tsonet2026,
-  title={TSONet: Two-Stream Ordinal Network for Building Height Estimation from Optical Remote Sensing Imagery},
-  author={Anonymous},
-  year={2026},
-  note={Code release accompanying the paper}
-}
+
 ```
