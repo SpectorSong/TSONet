@@ -86,8 +86,16 @@ data_root/
 
 ## Citation
 
-If you find this repository useful, please cite the corresponding paper.
+If you find this repository useful, please cite the corresponding paper, which is currently under review and available in arXiv:
 
 ```bibtex
-
+@misc{song2026monocularbuildingheightestimation,
+      title={Monocular Building Height Estimation from PhiSat-2 Imagery: Dataset and Method}, 
+      author={Yanjiao Song and Bowen Cai and Timo Balz and Zhenfeng Shao and Neema Simon Sumari and James Magidi and Walter Musakwa},
+      year={2026},
+      eprint={2603.29245},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.29245}, 
+}
 ```
